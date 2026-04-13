@@ -1,0 +1,3 @@
+[submodule "netflix_backend"]
+	path = netflix_backend
+	url = https://github.com/BOSSZUA/netflix_backend
